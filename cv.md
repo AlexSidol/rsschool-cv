@@ -13,6 +13,7 @@ Telegram: @ales_sid<br>
 [GitHub](https://github.com/AlexSidol)
 
 ---
+
 ### ABOUT MYSELF
 
 I am a positive and responsible person, I like to learn and improve my skills.<br>
@@ -27,6 +28,20 @@ I am looking for a challenging and interesting job where my skills can be used a
 [Filmoteka](https://yzarytskyi.github.io/filmoteka/#) [HTML, SASS, JS, Handlebars, REST API,AJAX, Parcel]
 
 [Ice cream](https://grechkoseynadezhda.github.io/quincy-crew-ice-cream/) [HTML, SASS, JS, Parcel]
+
+---
+
+### Code example:
+
+Thinkful - Logic Drills: Traffic light KATA from CODEWARS:
+_You're writing code to control your town's traffic lights. You need a function to handle each change from green, to yellow, to red, and then to green again.
+Complete the function that takes a string as an argument representing the current state of the light and returns a string representing the state the light should change to._
+
+javascript
+
+function updateLight(current) {
+  return current === 'green' ? 'yellow': (current === 'yellow' ? 'red' : 'green');
+}
 
 ---
 
